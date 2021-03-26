@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    
+}
+.formulario, .accordion{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(204, 204, 204);
+}
+.botao{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
